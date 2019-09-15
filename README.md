@@ -4,3 +4,4 @@ machine-learning has been improved remarkably in the past decades due to its att
 In this project, we will show that deep learning methods have higher accuracy than classical machine learning methods in categorizing and detecting hand movements from the EEG records.<br/><br/><br/>
 *The dataset that is used in this project is available on Kaggle (Grasp-and-Lift EEG Detection).<br/>
 **detailed information of implementation is available in the report (in Persian) and in the presentation.
+![Result](result.png)
